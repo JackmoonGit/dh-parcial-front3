@@ -1,0 +1,18 @@
+.card {
+    max-width: 500px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    border-left: 5px solid #5cb85c; /* Ajusta el color según necesites */
+  }
+  
+  .card h2 {
+    color: #333;
+  }
+  
+  .card p {
+    color: #555;
+  }
+  
